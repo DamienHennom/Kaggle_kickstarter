@@ -5,17 +5,13 @@
 ####################################################################################
 
 ####################################################################################
-#                                      Package                                     #
-####################################################################################
-library(data.table)
-library(dplyr)
-library(ggplot2)
-library(highcharter)
-
-####################################################################################
-#                                     Programm                                     #
+#                                      Import data                                 #
 ####################################################################################
 
-source(file="01-DATA_MANIPULATION.R")
-source(file="02-ANALYSE.R")
+live<-data.frame(read.csv(file = "00-BASE/live.csv"),row.names = TRUE)
+most_backed<-data.frame(read.csv(file = "00-BASE/most_backed.csv"),row.names = TRUE)
+
+#MAP
+pass<-data.frame(read.csv(file = "00-BASE/Matrix.csv",sep=";"))
+data(worldgeojson)
 
