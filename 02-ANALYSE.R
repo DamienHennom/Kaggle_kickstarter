@@ -48,7 +48,7 @@ highchart() %>%
 
 
 #############################################
-#           Per courrency                   #
+#           Per currency                    #
 #############################################
 live %>%
   group_by(currency)%>%
@@ -66,6 +66,21 @@ highchart() %>%
   hc_title(text = "Kickstarter by currency") %>%
   hc_legend(enabled = FALSE)
 
+most_backed %>%
+  group_by(currency)%>%
+  summarize(n= n()) %>%
+  mutate(n   = round(n/sum(n)*100,2)) %>%
+  arrange(n)-> most_backed_by_currency
+
+
+highchart() %>% 
+  hc_add_series_labels_values(most_backed_by_currency$currency, 
+                              most_backed_by_currency$n, 
+                              type = "bar",
+                              colorByPoint = TRUE) %>%
+  hc_xAxis(categories = most_backed_by_currency$currency) %>%
+  hc_title(text = "Kickstarter most by currency") %>%
+  hc_legend(enabled = FALSE)
 #############################################
 #                Per Type                   #
 #############################################
@@ -87,6 +102,25 @@ highchart() %>%
 
 
 #############################################
+#                Per Category               #
+#############################################
+most_backed %>%
+  group_by(category)%>%
+  summarize(n= n()) %>%
+  mutate(n   = round(n/sum(n)*100,2)) %>%
+  arrange(n)-> most_backed_by_category
+
+
+highchart() %>% 
+  hc_add_series_labels_values(most_backed_by_category$category, 
+                              most_backed_by_category$n, 
+                              type = "bar",
+                              colorByPoint = TRUE) %>%
+  hc_xAxis(categories = most_backed_by_category$category) %>%
+  hc_title(text = "Kickstarter most by category") %>%
+  hc_legend(enabled = FALSE)
+
+#############################################
 #                Per amount                 #
 #############################################
 live %>%
@@ -104,9 +138,60 @@ highchart() %>%
   hc_title(text = "Kickstarter average amt by country") %>%
   hc_legend(enabled = FALSE)
 
+most_backed %>%
+  group_by(country)%>%
+  summarize(amt= mean(amt.pledged)) %>%
+  arrange(amt)-> live_by_country
+
+
+highchart() %>% 
+  hc_add_series_labels_values(live_by_country$country, 
+                              live_by_country$amt, 
+                              type = "bar",
+                              colorByPoint = TRUE) %>%
+  hc_xAxis(categories = live_by_country$country) %>%
+  hc_title(text = "Kickstarter average amt by country") %>%
+  hc_legend(enabled = FALSE)
+
+#############################################
+#                Per goal                   #
+#############################################
+live %>%
+  group_by(country)%>%
+  summarize(amt= mean(amt.pledged)) %>%
+  arrange(amt)-> live_by_country
+
+
+highchart() %>% 
+  hc_add_series_labels_values(live_by_country$country, 
+                              live_by_country$amt, 
+                              type = "bar",
+                              colorByPoint = TRUE) %>%
+  hc_xAxis(categories = live_by_country$country) %>%
+  hc_title(text = "Kickstarter average amt by country") %>%
+  hc_legend(enabled = FALSE)
+
+#############################################
+#                Per percent                #
+#############################################
+live %>%
+  group_by(country)%>%
+  summarize(pct = mean(percentage.funded)) %>%
+  arrange(pct)-> live_by_pct
+
+
+highchart() %>% 
+  hc_add_series_labels_values(live_by_pct$country, 
+                              live_by_pct$pct, 
+                              type = "bar",
+                              colorByPoint = TRUE) %>%
+  hc_xAxis(categories = live_by_pct$country) %>%
+  hc_title(text = "Kickstarter average percentage.funded by country") %>%
+  hc_legend(enabled = FALSE)
 
 #############################################
 #                    Blurb                  #
 #############################################
-
-
+word<-unlist(strsplit(as.character(unlist(live$title[1:10])),split=" "))
+wordcloud(word,freq=rep(1,length(word)))
+live$title[1]

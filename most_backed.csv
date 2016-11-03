@@ -1,0 +1,807 @@
+V1;V2;True;;
+Los Angeles, CA; CA;US;;US
+Denver, CO; CO;US;;US
+San Diego, CA; CA;US;;US
+San Francisco, CA; CA;US;;US
+Palo Alto, CA; CA;US;;US
+Newport Beach, CA; CA;US;;US
+Irvine, CA; CA;US;;US
+Derby, UK; UK;RU;RU;RURU
+Toronto, Canada; Canada;CA;;CA
+Tokyo, Japan; Japan;JP;;JP
+Redwood City, CA; CA;US;;US
+Dallas, TX; TX;;US;US
+Portland, OR; OR;;;
+Minneapolis, MN; MN;;;
+Chicago, IL; IL;;;
+Kirkland, WA; WA;;;
+Sacramento, CA; CA;;;
+Oakland, CA; CA;US;;US
+Bellevue, WA; WA;;;
+Prague, Czech Republic; Czech Republic;;;
+Stockport, UK; UK;;RU;RU
+Austin, TX; TX;;US;US
+New York, NY; NY;;;
+Anacortes, WA; WA;;;
+Montreal, Canada; Canada;;;
+Boston, MA; MA;;;
+Cambridge, UK; UK;;RU;RU
+Miami, FL; FL;;;
+Pasadena, CA; CA;;;
+San Jose, CA; CA;US;;US
+Atlanta, GA; GA;;;
+Spokane, WA; WA;;;
+Beijing, China; China;CA;;CA
+Oslo, Norway; Norway;;;
+Cambridge, MA; MA;;;
+Vancouver, WA; WA;;;
+Plano, TX; TX;;US;US
+Melbourne, AU; AU;;;
+Ghent, Belgium; Belgium;;;
+Orem, UT; UT;;;
+Lake Forest, CA; CA;;;
+Denton, TX; TX;;US;US
+St. Louis, MO; MO;;;
+Alpine, UT; UT;;;
+Umeå, Sweden; Sweden;;;
+Seattle, WA; WA;;;
+Guildford, UK; UK;;RU;RU
+Brooklyn, NY; NY;;;
+Niagara Falls, NY; NY;;;
+Las Vegas, NV; NV;;;
+Munich, Germany; Germany;;;
+Carlsbad, CA; CA;;;
+Isle of Wight, UK; UK;;RU;RU
+Sydney, AU; AU;;;
+Ogden, UT; UT;;;
+Brisbane, AU; AU;;;
+Philadelphia, PA; PA;;;
+Santa Cruz, CA; CA;;;
+Fairfax, VA; VA;;;
+Phoenix, AZ; AZ;;;
+Waterloo, Canada; Canada;;;
+Londonderry, NH; NH;;;
+York, UK; UK;;RU;RU
+Lexington, MA; MA;;;
+London, UK; UK;;RU;RU
+Newark, DE; DE;;;
+Detroit, MI; MI;;;
+Easthampton, MA; MA;;;
+Queen Creek, AZ; AZ;;;
+Urbana, IL; IL;;;
+Lexington, KY; KY;;;
+Paris, France; France;;;
+Pembrokeshire County, UK; UK;;RU;RU
+Frankfurt, Germany; Germany;CA;;CA
+Framingham, MA; MA;;;
+Bethesda, MD; MD;;;
+Lower East Side, Manhattan, NY; Manhattan;;;
+Storrs, CT; CT;;;
+Łódź, Poland; Poland;;;
+Salt Lake City, UT; UT;;;
+Nice, France; France;;;
+Tucson, AZ; AZ;;;
+Eugene, OR; OR;;;
+Hamburg, Germany; Germany;;;
+Birmingham, UK; UK;;RU;RU
+Ljubljana, Slovenia; Slovenia;;;
+Cannes, France; France;;;
+Fairfield, CT; CT;;;
+Washington, DC; DC;US;;US
+Somerville, MA; MA;;;
+Stockholm, Sweden; Sweden;;;
+Hillandale, MD; MD;;;
+Redondo Beach, CA; CA;;;
+Shanghai, China; China;;;
+Manchester, UK; UK;;RU;RU
+Vancouver, Canada; Canada;;;
+Wroclaw, Poland; Poland;;;
+Long Beach, CA; CA;;;
+Ottawa, Canada; Canada;;;
+Missoula, MT; MT;;;
+Hyderabad, India; India;;;
+Copenhagen, Denmark; Denmark;CA;;CA
+Marina del Rey, CA; CA;;;
+Madrid, Spain; Spain;;;
+Provo, UT; UT;JP;;JP
+Mountain Green, UT; UT;;;
+Lancing, UK; UK;;RU;RU
+Mesa, AZ; AZ;;;
+Adelaide, AU; AU;;;
+Houston, TX; TX;;US;US
+Albany, CA; CA;;;
+Redmond, WA; WA;;;
+Silver Spring, MD; MD;;;
+West Chester, PA; PA;;;
+Malmö, Sweden; Sweden;;;
+Brighton and Hove City, UK; UK;;RU;RU
+Hellange, Luxembourg; Luxembourg;;;
+Sunnyvale, CA; CA;;;
+Oxford, UK; UK;;RU;RU
+Hamar, Norway; Norway;;;
+Chapel Hill, NC; NC;;;
+Versailles, France; France;;;
+Honolulu, HI; HI;;;
+Bradford, UK; UK;;RU;RU
+Worcester, UK; UK;;RU;RU
+Taipei City, Taiwan; Taiwan;;;
+Venice, Los Angeles, CA; Los Angeles;;;
+Bremen, Germany; Germany;;;
+Alameda, CA; CA;;;
+Utrecht, Netherlands; Netherlands;;;
+Mexico City, Mexico; Mexico;;;
+Astoria, Queens, NY; Queens;;;
+Pittsburgh, PA; PA;;;
+Apex, NC; NC;;;
+Ridgeland, MS; MS;CA;;CA
+Louisville, KY; KY;;;
+Sandy, UT; UT;;;
+Moscow, Russia; Russia;;;
+Calgary, Canada; Canada;;;
+Los Altos, CA; CA;;;
+Oceanside, CA; CA;;;
+Cumberland, Canada; Canada;;;
+Baltimore, MD; MD;;;
+Fremont, OH; OH;;;
+Rocklin, CA; CA;;;
+Columbus, OH; OH;;;
+Woodmere, NY; NY;;;
+Hermosa Beach, CA; CA;;;
+Torrance, CA; CA;;;
+Lincoln, NE; NE;;;
+Boise, ID; ID;;;
+Duluth, MN; MN;;;
+Hanford, CA; CA;;;
+Phuket, Thailand; Thailand;;;
+Lake Arrowhead, CA; CA;;;
+Raleigh, NC; NC;CA;;CA
+Santa Barbara, CA; CA;;;
+Hull, UK; UK;US;RU;USRU
+Tel Aviv, Israel; Israel;;;
+Offenburg, Germany; Germany;;;
+Bellingham, WA; WA;;;
+Draper, UT; UT;;;
+Lincoln City, OR; OR;;;
+Mission Viejo, CA; CA;;;
+Milan, Italy; Italy;;;
+Cupertino, CA; CA;;;
+Berlin, Germany; Germany;;;
+Highlands Ranch, CO; CO;;;
+Vienna, Austria; Austria;;;
+Santa Ana, CA; CA;;;
+Nottingham, UK; UK;;RU;RU
+Gijon, Spain; Spain;;;
+Boulder, CO; CO;US;;US
+Layton, UT; UT;;;
+Lancaster, PA; PA;;;
+Osaka-shi, Japan; Japan;;;
+Izhevsk, Russia; Russia;;;
+Bend, OR; OR;;;
+Burbank, CA; CA;;;
+San Mateo, CA; CA;;;
+Santa Clara, CA; CA;;;
+Richmond, VA; VA;;;
+Discovery Bay, CA; CA;;;
+New Haven, CT; CT;;;
+Rochester, NY; NY;;;
+Stanford, CA; CA;;;
+Hollywood, Los Angeles, CA; Los Angeles;;;
+West Yorkshire, UK; UK;;RU;RU
+Durham, NC; NC;;;
+Carbondale, IL; IL;;;
+Tempe, AZ; AZ;;;
+Indianapolis, IN; IN;;;
+Westland, MI; MI;;;
+San Luis Obispo, CA; CA;;;
+Trbovlje, Slovenia; Slovenia;;;
+Aurora, CO; CO;;;
+Agoura Hills, CA; CA;;;
+Italia, Italy; Italy;;;
+Valencia, Spain; Spain;;;
+Santa Monica, CA; CA;;;
+Ottawa South, Canada; Canada;;;
+San Carlos, CA; CA;;;
+Orlando, FL; FL;;;
+Seoul, South Korea; South Korea;;;
+Mountain View, CA; CA;;;
+Sofia, Bulgaria; Bulgaria;;;
+Nashville, TN; TN;;;
+Sterling, VA; VA;;;
+Providence, RI; RI;;;
+Lynnwood, WA; WA;;;
+Ann Arbor, MI; MI;;;
+Lutz, FL; FL;;;
+Fort Worth, TX; TX;;US;US
+Lafayette, LA; LA;;;
+Wilmington, NC; NC;;;
+Coeur D'Alene, ID; ID;;;
+Bath, UK; UK;;RU;RU
+Lafayette, IN; IN;;;
+Wake Forest, NC; NC;CA;;CA
+Milwaukee, WI; WI;;;
+Mapleton, UT; UT;;;
+Manhattan, NY; NY;;;
+Noblesville, IN; IN;;;
+Sausalito, CA; CA;;;
+Memphis, TN; TN;;;
+Akron, OH; OH;;;
+Springfield, MO; MO;;;
+Deerfield Beach, FL; FL;;;
+Saskatchewan, Canada; Canada;;;
+Rockwall, TX; TX;;US;US
+New Orleans, LA; LA;;;
+Warsaw, Poland; Poland;;;
+Bozeman, MT; MT;;;
+Swindon, UK; UK;;RU;RU
+Macungie, PA; PA;;;
+Greenfield, MA; MA;;;
+Eindhoven, Netherlands; Netherlands;;;
+Johannesburg, South Africa; South Africa;;;
+Menlo Park, CA; CA;;;
+Chandler, AZ; AZ;;;
+West Lafayette, IN; IN;;;
+Park City, UT; UT;;;
+Athens, GA; GA;CA;;CA
+Somerset, NJ; NJ;;;
+Kabul, Afghanistan; Afghanistan;;;
+Cornwall and Isles of Scilly, UK; UK;;RU;RU
+Newport, NH; NH;;;
+Brookfield, CT; CT;;;
+Aliso Viejo, CA; CA;;;
+Nimes, France; France;;;
+Erie, PA; PA;US;;US
+Auckland, NZ; NZ;;;
+Toledo, OH; OH;;;
+Tuscaloosa, AL; AL;;;
+Chesterland, OH; OH;;;
+Hong Kong, Hong Kong; Hong Kong;;;
+Cocoa Beach, FL; FL;CA;;CA
+Big Bear Lake, CA; CA;;;
+Traverse City, MI; MI;;;
+Pleasanton, CA; CA;;;
+Sarasota, FL; FL;;;
+Brasilia, Brazil; Brazil;;;
+Amsterdam, Netherlands; Netherlands;;;
+Cardiff, UK; UK;;RU;RU
+Anchorage, AK; AK;;;
+Viborg, Denmark; Denmark;;;
+Iowa City, IA; IA;;;
+Lille, France; France;;;
+Landschlacht, Switzerland; Switzerland;;;
+Charlotte, NC; NC;;;
+Aalborg, Denmark; Denmark;;;
+Zug, Switzerland; Switzerland;;;
+Cleveland, OH; OH;;;
+Orinda, CA; CA;;;
+Turin, Italy; Italy;;;
+Berkeley, CA; CA;;;
+West Hollywood, CA; CA;;;
+Greenville, SC; SC;;;
+Knoxville, TN; TN;;;
+Camaiore, Italy; Italy;;;
+Centennial, CO; CO;;;
+Des Moines, IA; IA;;;
+Sheffield, UK; UK;;RU;RU
+Santa Rosa, CA; CA;;;
+Albany, NY; NY;US;;US
+Hayward, CA; CA;;;
+Kiev, Ukraine; Ukraine;;;
+Gernsbach, Germany; Germany;;;
+Aptos, CA; CA;;;
+Southend-on-Sea, UK; UK;;RU;RU
+Birmingham, AL; AL;;;
+Alexandria, VA; VA;CA;;CA
+Huntington Beach, CA; CA;;;
+Muscatine, IA; IA;;;
+Santiago, Chile; Chile;;;
+Charlottesville, VA; VA;;;
+Rexburg, ID; ID;CA;;CA
+Berwick-upon-Tweed, UK; UK;;RU;RU
+St. Paul, MN; MN;;;
+Vigo, Spain; Spain;;;
+Slough, UK; UK;;RU;RU
+Shrewsbury, UK; UK;;RU;RU
+Olathe, KS; KS;;;
+Fort Myers, FL; FL;;;
+Edinburgh, UK; UK;;RU;RU
+Kansas City, MO; MO;;;
+Greater London, UK; UK;;RU;RU
+Bielsko-Biała, Poland; Poland;;;
+Ithaca, NY; NY;;;
+Ljungbyholm, Sweden; Sweden;;;
+Katowice, Poland; Poland;;;
+Cincinnati, OH; OH;;;
+St. John's, Canada; Canada;;;
+Colorado Springs, CO; CO;;;
+Lake Helen, FL; FL;;;
+Quebec, Canada; Canada;;;
+Portsmouth, NH; NH;;;
+Long Branch, NJ; NJ;;;
+Laguna Beach, CA; CA;;;
+Turlock, CA; CA;;;
+Los Gatos, CA; CA;;;
+Buenos Aires, Argentina; Argentina;;;
+Dubai, United Arab Emirates; United Arab Emirates;;;
+Bronx, NY; NY;;;
+Reno, NV; NV;;;
+Graz, Austria; Austria;;;
+Jacksonville, FL; FL;;;
+Szczecin, Poland; Poland;;;
+Mechanicsburg, PA; PA;;;
+Issaquah, WA; WA;CA;;CA
+Jerusalem, Israel; Israel;;;
+Griffin, GA; GA;;;
+Arlington, MA; MA;;;
+The Woodlands, TX; TX;;US;US
+Montpellier, France; France;;;
+Farmington, MI; MI;;;
+South Lyon, MI; MI;;;
+Costa Mesa, CA; CA;;;
+Naples, FL; FL;;;
+Machias, ME; ME;;;
+Kingsland, GA; GA;;;
+Walnut Creek, CA; CA;;;
+France, France; France;;;
+Albuquerque, NM; NM;;;
+Chico, CA; CA;;;
+Wappingers Falls, NY; NY;;;
+Bethlehem, PA; PA;;;
+Lebanon, PA; PA;CA;;CA
+Rockport, ME; ME;;;
+Rotterdam, Netherlands; Netherlands;;;
+Tinton Falls, NJ; NJ;;;
+Albany, OR; OR;;;
+Virginia Beach, VA; VA;US;;US
+La Plata, MD; MD;;;
+Hoofddorp, Netherlands; Netherlands;;;
+Zurich, Switzerland; Switzerland;;;
+Arlington, VA; VA;;;
+Fishers, IN; IN;;;
+Lompoc, CA; CA;;;
+Jackson, WY; WY;US;;US
+Turku, Finland; Finland;;;
+Southern Pines, NC; NC;;;
+Great Neck, NY; NY;;;
+Halethorpe, MD; MD;;;
+Hamilton, Canada; Canada;CA;;CA
+Fremont, CA; CA;;;
+Jersey City, NJ; NJ;;;
+Red Bank, NJ; NJ;;;
+Minsk, Belarus; Belarus;CA;;CA
+Westport, CT; CT;;;
+Barcelona, Spain; Spain;;;
+Sorrento, LA; LA;;;
+Tarpley, TX; TX;;US;US
+Winnipeg, Canada; Canada;;;
+Hackensack, NJ; NJ;;;
+Bristol, UK; UK;;RU;RU
+Jupiter, FL; FL;;;
+Palm Bay, FL; FL;;;
+Boca Raton, FL; FL;;;
+Northampton, MA; MA;;;
+Liege, Belgium; Belgium;;;
+Dover, DE; DE;US;;US
+Bordeaux, France; France;;;
+Bloomington, IN; IN;;;
+Seville, Spain; Spain;;;
+Istanbul, Turkey; Turkey;;;
+Princeton, NJ; NJ;;;
+North Hollywood, Los Angeles, CA; Los Angeles;;;
+South Lake Tahoe, CA; CA;;;
+Kenmore, WA; WA;;;
+Edmonton, Canada; Canada;;;
+Norman, OK; OK;;;
+Chelsea, AL; AL;;;
+Trumbull, CT; CT;;;
+Milton Keynes, UK; UK;US;RU;USRU
+Mount Prospect, IL; IL;;;
+Sioux Falls, SD; SD;;;
+Shenzhen, China; China;;;
+Queens, NY; NY;;;
+Leipzig, Germany; Germany;;;
+Bucharest, Romania; Romania;;;
+Coney Island, Brooklyn, NY; Brooklyn;;;
+Oulu, Finland; Finland;;;
+Tulsa, OK; OK;;;
+Ashland, MA; MA;;;
+Lawrenceville, GA; GA;;;
+Ames, IA; IA;;;
+South San Francisco, CA; CA;;;
+Grenoble, France; France;;;
+Zebbug, Malta; Malta;;;
+Navarre, FL; FL;;;
+Athens, Greece; Greece;;;
+Antwerp, Belgium; Belgium;;;
+Ridgewood, Queens, NY; Queens;;;
+Coconut Creek, FL; FL;;;
+Haddonfield, NJ; NJ;;;
+Elgin, IL; IL;;;
+Rosemount, MN; MN;;;
+Portland, ME; ME;;;
+Gallup, NM; NM;;;
+Reykjavik, Iceland; Iceland;;;
+Fort Collins, CO; CO;;;
+Accord, NY; NY;;;
+East Palo Alto, CA; CA;;;
+Flint, MI; MI;;;
+Minnetonka, MN; MN;;;
+Norrköping, Sweden; Sweden;;;
+Huntsville, AL; AL;;;
+Bloomington, IL; IL;;;
+Wilmington, DE; DE;;;
+Edmonds, WA; WA;;;
+Placerville, CA; CA;;;
+Helsinki, Finland; Finland;US;;US
+Innsbruck, Austria; Austria;;;
+Bratislava, Slovakia; Slovakia;;;
+Athens, OH; OH;;;
+Takoma Park, MD; MD;;;
+Belfast, UK; UK;;RU;RU
+Singapore, Singapore; Singapore;;;
+East Nashville, Nashville, TN; Nashville;;;
+Brisbane, CA; CA;;;
+Stuttgart, Germany; Germany;;;
+Winooski, VT; VT;JP;;JP
+Olympia, WA; WA;;;
+Nephi, UT; UT;;;
+Dayton, OH; OH;;;
+Rio de Janeiro, Brazil; Brazil;;;
+Des Plaines, IL; IL;;;
+St. Veit an der Glan, Austria; Austria;;;
+Odessa, TX; TX;;US;US
+County Durham, UK; UK;;RU;RU
+New Milford, CT; CT;;;
+Rome, Italy; Italy;;;
+El Dorado Hills, CA; CA;;;
+Krakow, Poland; Poland;;;
+Leitchfield, KY; KY;;;
+Petaluma, CA; CA;;;
+Durango, CO; CO;;;
+Busan, South Korea; South Korea;;;
+Glen Cove, NY; NY;;;
+Flower Mound, TX; TX;;US;US
+Aylesbury, UK; UK;;RU;RU
+College Park, MD; MD;;;
+Ringold, OK; OK;;;
+Marlborough, MA; MA;;;
+Toulouse, France; France;;;
+Nashua, NH; NH;;;
+Waikanae, NZ; NZ;;;
+Douglas, NV; NV;;;
+Sabadell, Spain; Spain;;;
+Braddock, PA; PA;;;
+Williston, SC; SC;;;
+Pleasant Grove, UT; UT;;;
+Charleston, SC; SC;;;
+Malibu, CA; CA;;;
+Evergreen, CO; CO;;;
+Newark, CA; CA;;;
+Taos, NM; NM;;;
+Moncton, Canada; Canada;;;
+Burlington, VT; VT;;;
+Skopje, Macedonia; Macedonia;;;
+Rockport, MA; MA;;;
+Westby, WI; WI;;;
+Charlotte, VT; VT;;;
+South Philadelphia, Philadelphia, PA; Philadelphia;;;
+Victoria, Canada; Canada;JP;;JP
+Humble, TX; TX;;US;US
+Hoboken, NJ; NJ;;;
+Springville, UT; UT;;;
+Lake Worth, FL; FL;;;
+Washougal, WA; WA;;;
+Liverpool, UK; UK;;RU;RU
+Webster City, IA; IA;;;
+Mission Beach, San Diego, CA; San Diego;;;
+Taichung City, Taiwan; Taiwan;US;;US
+Cheyenne, WY; WY;;;
+Jaipur, India; India;;;
+Targu Mures, Romania; Romania;;;
+Alhambra, CA; CA;;;
+Madison, WI; WI;;;
+Glasgow, UK; UK;;RU;RU
+Ogdensburg, NJ; NJ;;;
+Mellor, UK; UK;;RU;RU
+Cypress, TX; TX;;US;US
+Bremerton, WA; WA;;;
+Sundance, UT; UT;;;
+Greater Manchester, UK; UK;;RU;RU
+Everett, WA; WA;;;
+Norfolk, UK; UK;;RU;RU
+Port Richey, FL; FL;;;
+Aberdeen, UK; UK;;RU;RU
+Southampton, UK; UK;;RU;RU
+Eureka, CA; CA;;;
+Dubuque, IA; IA;;;
+Middlesbrough, UK; UK;;RU;RU
+Bangor, ME; ME;;;
+South Royalton, VT; VT;;;
+Stuart, FL; FL;;;
+Camarillo, CA; CA;US;;US
+Lincoln, CA; CA;;;
+Brno, Czech Republic; Czech Republic;;;
+West Midlands, UK; UK;;RU;RU
+Maitland, FL; FL;;;
+Carver, MA; MA;;;
+Pori, Finland; Finland;;;
+Capezzano Pianore, Italy; Italy;;;
+West Palm Beach, FL; FL;;;
+Wales, UK; UK;;RU;RU
+Perth, AU; AU;;;
+Bochum, Germany; Germany;;;
+Hilo, HI; HI;;;
+Jefferson, GA; GA;;;
+Seal Beach, CA; CA;;;
+Leesburg, VA; VA;;;
+Wellsville, NY; NY;;;
+Prince William, VA; VA;;;
+Branford, CT; CT;;;
+North Vancouver, Canada; Canada;;;
+Yorba Linda, CA; CA;;;
+Gothenburg, Sweden; Sweden;;;
+San Jose, Costa Rica; Costa Rica;;;
+Ashland, OR; OR;;;
+Gloucester, MA; MA;;;
+Å Kofja Loka, Slovenia; Slovenia;;;
+Lenexa, KS; KS;;;
+St. John, IN; IN;;;
+Glendale, CA; CA;US;;US
+Portola Valley, CA; CA;;;
+Helena, MT; MT;;;
+Artisan, Bakersfield, CA; Bakersfield;;;
+Wiltshire, UK; UK;;RU;RU
+Spanish Fork, UT; UT;;;
+Carmel, IN; IN;;;
+Evanston, IL; IL;;;
+Stafford, VA; VA;;;
+Plantation, FL; FL;;;
+Simi Valley, CA; CA;;;
+Richardson, TX; TX;;US;US
+Samara, Russia; Russia;;;
+Rzgów, Poland; Poland;;;
+Penticton, Canada; Canada;;;
+NE Portland, Portland, OR; Portland;;;
+Chattanooga, TN; TN;;;
+Menomonie, WI; WI;;;
+Tehachapi, CA; CA;;;
+St. Petersburg, FL; FL;;;
+Melbourne, FL; FL;;;
+Syracuse, NY; NY;;;
+Teruel, Spain; Spain;;;
+City of Gold Coast, AU; AU;;;
+Harrisburg, PA; PA;;;
+Emeryville, CA; CA;;;
+Fredericksburg, VA; VA;;;
+Naperville, IL; IL;;;
+Shetland Islands, UK; UK;;RU;RU
+Charleroi, Belgium; Belgium;;;
+Carlisle, PA; PA;;;
+Christchurch, NZ; NZ;;;
+Derbyshire, UK; UK;US;RU;USRU
+Stockbridge, GA; GA;;;
+Blacksburg, VA; VA;;;
+Rantoul, IL; IL;US;;US
+Waldems, Germany; Germany;;;
+Champaign, IL; IL;;;
+Conifer, CO; CO;;;
+Thompsons Station, TN; TN;;;
+Lindon, UT; UT;;;
+Nokomis, FL; FL;;;
+Decatur, IL; IL;;;
+Varberg, Sweden; Sweden;;;
+Vallejo, CA; CA;;;
+Plymouth, MN; MN;;;
+Wichita, KS; KS;;;
+Kutztown, PA; PA;US;;US
+Savannah, GA; GA;;;
+Reading, UK; UK;;RU;RU
+Sherwood, OR; OR;;;
+Wynwood Art District, Miami, FL; Miami;;;
+Dundee, UK; UK;;RU;RU
+Parker, CO; CO;;;
+Medford, MA; MA;;;
+Qualicum Beach, Canada; Canada;;;
+Geneva, Switzerland; Switzerland;;;
+Vashon, WA; WA;;;
+Northampton, UK; UK;;RU;RU
+Orange, CA; CA;;;
+Wayland, MA; MA;;;
+Redding, CA; CA;US;;US
+Kennesaw, GA; GA;;;
+Manila, Philippines; Philippines;;;
+Clearwater, FL; FL;;;
+Flensburg, Germany; Germany;;;
+Springfield, IL; IL;;;
+Appleton, WI; WI;US;;US
+Danvers, MA; MA;US;;US
+Butlers Place, NJ; NJ;;;
+Long Island, NY; NY;;;
+Tacoma, WA; WA;;;
+Leeds, UK; UK;;RU;RU
+Zagreb, Croatia; Croatia;;;
+Murfreesboro, TN; TN;;;
+Suffolk, VA; VA;;;
+Makati City, Philippines; Philippines;;;
+Downtown Toronto, Canada; Canada;;;
+Whitefish, MT; MT;;;
+Borgholzhausen, Germany; Germany;;;
+Southsea, UK; UK;;RU;RU
+Cairo, Egypt; Egypt;US;;US
+Amherst, MA; MA;;;
+Port Hope, Canada; Canada;;;
+Berwyn, IL; IL;;;
+Vineland, NJ; NJ;US;;US
+Towson, MD; MD;;;
+Ventura, CA; CA;;;
+Arlington, TX; TX;;US;US
+Reisterstown, MD; MD;;;
+Friedburg, Germany; Germany;;;
+Johnstown, OH; OH;;;
+Buderim, AU; AU;;;
+Caerphilly, UK; UK;;RU;RU
+Sigel, IL; IL;;;
+Leeuwarden, Netherlands; Netherlands;;;
+Stevensville, MD; MD;;;
+Sicklerville, NJ; NJ;;;
+East Taunton, MA; MA;;;
+Kenilworth, UK; UK;RU;RU;RURU
+Little Rock, AR; AR;;;
+Dulles, VA; VA;;;
+Dublin, Ireland; Ireland;;;
+Noosaville, AU; AU;;;
+Homestead, FL; FL;;;
+Big Timber, MT; MT;;;
+Danville, CA; CA;US;;US
+Bartlett, TN; TN;;;
+Barrington, IL; IL;;;
+Longmeadow, MA; MA;;;
+Scottsdale, AZ; AZ;;;
+Norfolk, VA; VA;;;
+Maysville, MO; MO;;;
+Newbury Park, Thousand Oaks, CA; Thousand Oaks;;;
+Charlotte Amalie, Virgin Islands, U.S.; Virgin Islands;;;
+Irving, TX; TX;;US;US
+Asheville, NC; NC;;;
+Powellton, VA; VA;;;
+Venus, FL; FL;;;
+Folkestone, UK; UK;RU;RU;RURU
+Woodstock, NY; NY;;;
+South Setauket, NY; NY;;;
+North Salt Lake, UT; UT;;;
+Ohope, NZ; NZ;;;
+Franklin, TN; TN;;;
+Folsom, CA; CA;US;;US
+Mount Crested Butte, Crested Butte, CO; Crested Butte;;;
+Niles, IL; IL;;;
+Brandenburg, KY; KY;;;
+Nanuet, NY; NY;;;
+Fort Lauderdale, FL; FL;;;
+Clarkfield, MN; MN;;;
+Morecambe, UK; UK;RU;RU;RURU
+Zaporizhzhya, Ukraine; Ukraine;;;
+Doylestown, PA; PA;;;
+Leicestershire, UK; UK;RU;RU;RURU
+El Segundo, CA; CA;US;;US
+East Brunswick, NJ; NJ;;;
+Tampa, FL; FL;;;
+Westmont, NJ; NJ;;;
+San Juan, Puerto Rico; Puerto Rico;;;
+Gerlach, NV; NV;;;
+Beaverton, OR; OR;;;
+Bandung, Indonesia; Indonesia;;;
+Yaounde, Cameroon; Cameroon;;;
+London, Canada; Canada;;;
+Brea, CA; CA;US;;US
+Saxonville, Framingham, MA; Framingham;;;
+Troy, NY; NY;;;
+Davis, CA; CA;US;;US
+Garland, TX; TX;;US;US
+Norcross, GA; GA;;;
+Kapiti, NZ; NZ;;;
+Longmont, CO; CO;US;;US
+Cape Elizabeth, ME; ME;;;
+Edwardsville, IL; IL;;;
+Williams Bay, WI; WI;;;
+Rzeszów, Poland; Poland;;;
+Lake Geneva, WI; WI;;;
+Canberra, AU; AU;;;
+Carpinteria, CA; CA;US;;US
+Malmesbury, UK; UK;RU;RU;RURU
+Homeland, FL; FL;;;
+Annapolis, MD; MD;;;
+Grand Rapids, MI; MI;;;
+Velenje, Slovenia; Slovenia;;;
+Harrisonburg, VA; VA;;;
+Taunton, UK; UK;RU;RU;RURU
+Baulkham Hills, AU; AU;;;
+Lansing, MI; MI;;;
+Budapest, Hungary; Hungary;;;
+St. George, UT; UT;;;
+Trabuco Canyon, CA; CA;US;;US
+Cary, NC; NC;;;
+Valletta, Malta; Malta;;;
+Rowley, MA; MA;;;
+Linköping, Sweden; Sweden;;;
+Tsukuba, Japan; Japan;;;
+Sandpoint, ID; ID;;;
+Comox, Canada; Canada;;;
+Columbia, MD; MD;;;
+Collingswood, NJ; NJ;;;
+Northport, AL; AL;;;
+Neu-Ulm, Germany; Germany;;;
+Coonabarabran, AU; AU;;;
+Bogota, Colombia; Colombia;;;
+Elk Grove, CA; CA;US;;US
+Guadalajara, Mexico; Mexico;;;
+San Antonio, TX; TX;;US;US
+Salem, OR; OR;;;
+Crestview Hills, KY; KY;;;
+Kyle, TX; TX;;US;US
+Studio City, Los Angeles, CA; Los Angeles;;;
+Abergavenny, UK; UK;RU;RU;RURU
+San Clemente, CA; CA;US;;US
+Independence, KY; KY;;;
+Scheveningen, Netherlands; Netherlands;;;
+Shepherdstown, WV; WV;;;
+Gardena, CA; CA;US;;US
+Topeka, KS; KS;;;
+Šoštanj, Slovenia; Slovenia;;;
+Sherman Oaks, Los Angeles, CA; Los Angeles;;;
+Anglet, France; France;;;
+Williamsburg, VA; VA;;;
+Angouleme, France; France;;;
+Hudson, NY; NY;;;
+Kountze, TX; TX;;US;US
+Pittsfield, MA; MA;;;
+Baton Rouge, LA; LA;;;
+Oegstgeest, Netherlands; Netherlands;;;
+Norristown, PA; PA;;;
+Gemeinde Offenburg, Germany; Germany;;;
+Vista, CA; CA;US;;US
+Laie, HI; HI;;;
+Windsor, Canada; Canada;;;
+Bridgeport, CT; CT;;;
+Jenison, MI; MI;;;
+Sweden, SC; SC;;;
+Osceola, IN; IN;;;
+American Fork, UT; UT;;;
+Guelph, Canada; Canada;;;
+Mesquite, TX; TX;;US;US
+Perth Central, AU; AU;;;
+Oxford, MI; MI;;;
+Midland Park, Maplewood, NJ; Maplewood;;;
+North Yorkshire, UK; UK;RU;RU;RURU
+Glassell Park, Los Angeles, CA; Los Angeles;;;
+Roswell, GA; GA;;;
+Waco, TX; TX;;US;US
+Warwick, UK; UK;RU;RU;RURU
+Rowlett, TX; TX;;US;US
+Buffalo, NY; NY;;;
+Warwick, NY; NY;;;
+Lakewood, NJ; NJ;;;
+Fall River, MA; MA;;;
+Ashburn, VA; VA;;;
+Johnson City, TN; TN;;;
+Redgranite, WI; WI;;;
+Fayetteville, NC; NC;;;
+Tottori, Japan; Japan;;;
+Gig Harbor, WA; WA;;;
+Maribor, Slovenia; Slovenia;;;
+Bingley, UK; UK;RU;RU;RURU
+Devonport, UK; UK;RU;RU;RURU
+Leominster, MA; MA;;;
+Mckinney, TX; TX;;US;US
+Riverside, CA; CA;US;;US
+Hudson, WI; WI;;;
+Wagga Wagga, AU; AU;;;
+Lehi, UT; UT;;;
+Keller, TX; TX;;US;US
+Gilbert, AZ; AZ;;;
+Lawrence, KS; KS;;;
+Houghton, MI; MI;;;
+Riga, Latvia; Latvia;;;
+Merthyr Tydfil, UK; UK;RU;RU;RURU
+Omsk, Russia; Russia;;;
+Nairobi, Kenya; Kenya;;;
+Luhans'k, Ukraine; Ukraine;;;
+Hamilton, NZ; NZ;;;
